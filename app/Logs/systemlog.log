@@ -171,3 +171,8 @@
 [INFO|functions.py:20] 2020-01-13 23:59:31,100 > Start Juso Extract-makeOutput
 [INFO|functions.py:70] 2020-01-13 23:59:31,112 > start time : 2020-01-13 23:59:31
 [INFO|main.py:22] 2020-01-13 23:59:33,126 > <urlopen error [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다>
+[INFO|main.py:13] 2020-01-29 00:25:27,200 > input file : E:\python\python_project\extJuso\app\Files\INPUT.xlsx
+[INFO|main.py:17] 2020-01-29 00:25:27,201 > output file : E:\python\python_project\extJuso\app\Files\OUTPUT.txt
+[INFO|functions.py:20] 2020-01-29 00:25:27,202 > Start Juso Extract-makeOutput
+[INFO|functions.py:70] 2020-01-29 00:25:27,222 > start time : 2020-01-29 00:25:27
+[INFO|main.py:22] 2020-01-29 00:25:29,237 > <urlopen error [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다>
