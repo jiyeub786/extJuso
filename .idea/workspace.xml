@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="269fc21a-aeac-4c99-837b-273a063e1cb3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WI7CRRESwQ11v8pkuz08iaUAaz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="extJuso" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="269fc21a-aeac-4c99-837b-273a063e1cb3" name="Default Changelist" comment="" />
+      <created>1578825126873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578825126873</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1469" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578830630189">
+      <screen x="-1846" y="0" width="1846" height="1080" />
+    </state>
+    <state x="-1469" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578830630189" />
+    <state x="451" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578826262470" />
+    <state x="713" y="152" key="#main" timestamp="1578825275576">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="713" y="152" key="#main/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578825275576" />
+    <state x="828" y="452" width="361" height="175" key="Github.CreateGistDialog" timestamp="1578827396174">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="828" y="452" width="361" height="175" key="Github.CreateGistDialog/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578827396174" />
+    <state width="1825" height="503" key="GridCell.Tab.0.bottom" timestamp="1578927603441">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1837" height="503" key="GridCell.Tab.0.bottom/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578831441964" />
+    <state width="1825" height="503" key="GridCell.Tab.0.bottom/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578927603441" />
+    <state width="1825" height="503" key="GridCell.Tab.0.center" timestamp="1578927603441">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1837" height="503" key="GridCell.Tab.0.center/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578831441964" />
+    <state width="1825" height="503" key="GridCell.Tab.0.center/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578927603441" />
+    <state width="1825" height="503" key="GridCell.Tab.0.left" timestamp="1578927603441">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1837" height="503" key="GridCell.Tab.0.left/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578831441964" />
+    <state width="1825" height="503" key="GridCell.Tab.0.left/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578927603441" />
+    <state width="1825" height="503" key="GridCell.Tab.0.right" timestamp="1578927603441">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1837" height="503" key="GridCell.Tab.0.right/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578831441964" />
+    <state width="1825" height="503" key="GridCell.Tab.0.right/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578927603441" />
+    <state width="912" height="364" key="GridCell.Tab.1.bottom" timestamp="1578829900902">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="912" height="364" key="GridCell.Tab.1.bottom/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578829900902" />
+    <state width="912" height="364" key="GridCell.Tab.1.center" timestamp="1578829900902">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="912" height="364" key="GridCell.Tab.1.center/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578829900902" />
+    <state width="912" height="364" key="GridCell.Tab.1.left" timestamp="1578829900902">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="912" height="364" key="GridCell.Tab.1.left/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578829900902" />
+    <state width="912" height="364" key="GridCell.Tab.1.right" timestamp="1578829900902">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="912" height="364" key="GridCell.Tab.1.right/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578829900902" />
+    <state x="-1422" y="181" key="SettingsEditor" timestamp="1578831139126">
+      <screen x="-1846" y="0" width="1846" height="1080" />
+    </state>
+    <state x="-1422" y="181" key="SettingsEditor/-1846.0.1846.1080/74.0.1846.1080@-1846.0.1846.1080" timestamp="1578831139126" />
+    <state x="498" y="181" key="SettingsEditor/-1846.0.1846.1080/74.0.1846.1080@74.0.1846.1080" timestamp="1578826322473" />
+  </component>
+</project>

@@ -1,0 +1,1 @@
+no	key	keyword			totalcount	currentpage	countperpage	errorcode	errormessage		roadAddr	roadAddrPart1	roadAddrPart2	jibunAddr	engAddr	zipNo	admCd	rdMgtSn	bdMgtSn	detBdNmList	bdNm	siNm	sggNm	emdNm	liNm	rn	buldMnnm	buldSlno	lnbrMnnm	lnbrSlno	bdKdcd	udrtYn	mtYn	
